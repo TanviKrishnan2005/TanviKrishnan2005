@@ -67,43 +67,31 @@ Real-time collaborative code editor built with React, Node.js, and Socket.IO.
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanviKrishnan2005&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKrishnan2005&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanviKrishnan2005&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKrishnan2005&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TanviKrishnan2005&theme=github-dark&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=TanviKrishnan2005&theme=radical&hide_border=true" />
 </p>
 
 ---
+
+
 
 ## 📈 Contribution Graph
 
-[![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviKrishnan2005&theme=github-dark)](https://github.com/TanviKrishnan2005)
+[![Tanvi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviKrishnan2005&theme=react-dark&hide_border=true)](https://github.com/TanviKrishnan2005)
+---
+
+
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanviKrishnan2005&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanviKrishnan2005&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 🌐 Portfolio: https://YOUR-PORTFOLIO
-- 📧 Email: YOUR_EMAIL@gmail.com
+## 📫 Connect With Me 
+- 🌐 Portfolio: https://tanvi-portfolio-blush.vercel.app/
+- 📧 Email: rmtanvikrishnan@gmail.com
