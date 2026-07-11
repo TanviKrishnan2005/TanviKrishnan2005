@@ -103,11 +103,6 @@ Real-time collaborative code editor with live collaboration using Socket.IO.
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/TanviKrishnan2005/TanviKrishnan2005/blob/output/github-contribution-grid-snake.svg)
-
----
 
 
 ## 📫 Connect
