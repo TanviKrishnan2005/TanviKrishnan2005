@@ -2,9 +2,9 @@
 
 💻 Computer Science Student
 
-🤖 Interested in AI, Machine Learning, and Data Science
+🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science.
 
-🚀 Building projects, learning every day, and looking for opportunities to grow.
+🚀 I enjoy building AI-powered applications and solving real-world problems through code.
 
 ---
 
@@ -13,11 +13,21 @@
 ### 📄 DOCUSense
 AI-powered document analysis platform using OCR and LLMs.
 
+🔗 https://github.com/TanviKrishnan2005/DOCUSense
+
+---
+
 ### 📈 Food Demand Forecasting
-Machine Learning system for predicting food demand using XGBoost and Random Forest.
+Predicts food demand using Machine Learning algorithms including XGBoost and Random Forest.
+
+🔗 https://github.com/Nibhi16/demand-forecasting-system
+
+---
 
 ### 💻 CodeCollab
-Real-time collaborative code editor built with React, Node.js, and Socket.IO.
+Real-time collaborative code editor with live collaboration using Socket.IO.
+
+🔗 https://github.com/TanviKrishnan2005/CODE_EDITOR_1
 
 ---
 
@@ -26,31 +36,34 @@ Real-time collaborative code editor built with React, Node.js, and Socket.IO.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
 </p>
 
-### AI / Machine Learning
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
 
 - Pandas
 - NumPy
 - Scikit-Learn
 - XGBoost
-- FastAPI
 - LangChain
-- ChromaDB
 - FAISS
+- ChromaDB
 - Streamlit
 
-### Web Development
+### Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 </p>
 
 ---
@@ -60,38 +73,47 @@ Real-time collaborative code editor built with React, Node.js, and Socket.IO.
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- LangChain
-- Vector Databases
-- MLOps
+- LangGraph
 - Docker
+- MLOps
 
 ---
 
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanviKrishnan2005&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKrishnan2005&layout=compact&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanviKrishnan2005&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKrishnan2005&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=TanviKrishnan2005&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=TanviKrishnan2005&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
+# 📈 Contribution Graph
 
-
-## 📈 Contribution Graph
-
-[![Tanvi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviKrishnan2005&theme=react-dark&hide_border=true)](https://github.com/TanviKrishnan2005)
----
-
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviKrishnan2005&theme=react-dark&hide_border=true)](https://github.com/TanviKrishnan2005)
 
 ---
 
-## 📫 Connect With Me 
-- 🌐 Portfolio: https://tanvi-portfolio-blush.vercel.app/
-- 📧 Email: rmtanvikrishnan@gmail.com
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/TanviKrishnan2005/TanviKrishnan2005/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
+## 📫 Connect
+
+🌐 Portfolio  
+https://tanvi-portfolio-blush.vercel.app/
+
+📧 Email  
+rmtanvikrishnan@gmail.com
