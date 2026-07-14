@@ -1,114 +1,21 @@
-# Hi, I'm Tanvi 👋
+# 💫 About Me:
+## 👩‍💻 About Me<br><br>🔭 I'm currently working on **AI and full-stack development projects**<br><br>🤝 I'm looking to collaborate on **interesting software and AI projects**<br><br>🌱 I'm currently learning **Machine Learning, LLMs, and modern backend technologies**<br><br>💬 Ask me about **Python, C++, React, Node.js, FastAPI, and DSA**<br><br>⚡ Fun fact: **I believe the best way to learn is by building real-world applications.**
 
-💻 Computer Science Student
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvi-lekshmi-r-m-7a452b290?original_referer=) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmtanvikrishnan@gmail.com) 
 
-🚀 I enjoy building AI-powered applications and solving real-world problems through code.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TanviKrishnan2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TanviKrishnan2005&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TanviKrishnan2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## 🚀 Featured Projects
-
-### 📄 DOCUSense
-AI-powered document analysis platform using OCR and LLMs.
-
-🔗 https://github.com/TanviKrishnan2005/DOCUSense
-
----
-
-### 📈 Food Demand Forecasting
-Predicts food demand using Machine Learning algorithms including XGBoost and Random Forest.
-
-🔗 https://github.com/Nibhi16/demand-forecasting-system
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TanviKrishnan2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=TanviKrishnan2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 CodeCollab
-Real-time collaborative code editor with live collaboration using Socket.IO.
-
-🔗 https://github.com/TanviKrishnan2005/CODE_EDITOR_1
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- XGBoost
-- LangChain
-- FAISS
-- ChromaDB
-- Streamlit
-
-### Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangGraph
-- Docker
-- MLOps
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanviKrishnan2005&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviKrishnan2005&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=TanviKrishnan2005&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviKrishnan2005&theme=react-dark&hide_border=true)](https://github.com/TanviKrishnan2005)
-
----
-
-
-
-## 📫 Connect
-
-🌐 Portfolio  
-https://tanvi-portfolio-blush.vercel.app/
-
-📧 Email  
-rmtanvikrishnan@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
