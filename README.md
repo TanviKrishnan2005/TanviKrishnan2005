@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>🔭 I'm currently working on **AI and full-stack development projects**<br><br>🤝 I'm looking to collaborate on **interesting software and AI projects**<br><br>🌱 I'm currently learning **Machine Learning, LLMs, and modern backend technologies**<br><br>💬 Ask me about **Python, C++, React, Node.js, FastAPI, and DSA**<br><br>⚡ Fun fact: **I believe the best way to learn is by building real-world applications.**
+## <br><br>🔭 I'm currently working on **AI and full-stack development projects**<br><br>🤝 I'm looking to collaborate on **interesting software and AI projects**<br><br>🌱 I'm currently learning **Machine Learning, LLMs, and modern backend technologies**<br><br>💬 Ask me about **Python, C++, React, Node.js, FastAPI, and DSA**<br><br>⚡ Fun fact: **I believe the best way to learn is by building real-world applications.**
 
 
 ## 🌐 Socials:
